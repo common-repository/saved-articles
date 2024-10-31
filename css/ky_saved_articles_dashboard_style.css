@@ -1,0 +1,22 @@
+p.ky_saved_articles_link a{
+text-decoration: none;
+    color: #b3b3b3;
+}
+p.ky_saved_articles_link a:hover{
+	box-shadow: none;
+	color: #666666;
+}
+.ky_saved_articles_img{
+	width: 15px;
+	float: right;
+}
+.ky_saved_articles_hide{
+	display: none;
+}
+a.ky_saved_articles_dashboard_delete{
+	color: #ff0000;
+	float: right;
+}
+a.ky_saved_articles_dashboard_delete:hover{
+	color: #cc0000;
+}
